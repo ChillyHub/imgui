@@ -26,6 +26,26 @@ ipch
 *.VC.db
 *.VC.VC.opendb
 
+# Visual Studio clutter
+_ReSharper*
+*.sdf
+*.suo
+*.dir
+*.vcxproj*
+*.sln
+.vs
+CMakeSettings.json
+Win32
+x64
+Debug
+Release
+MinSizeRel
+RelWithDebInfo
+*.opensdf
+
+bin
+bin-int
+
 ## Commonly used CMake directories
 /build*/
 
